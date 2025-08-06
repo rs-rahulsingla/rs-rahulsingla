@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs-rahulsingla&show_icons=true&theme=radical)
 ![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rs-rahulsingla&layout=compact&theme=radical)
 
