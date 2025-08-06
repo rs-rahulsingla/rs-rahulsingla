@@ -72,7 +72,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📫 Connect with Me
-- ✉️ Email: [rahulsingla2809@gmail.com](mailto:rahulsingla2809@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-singla-4333b5257)
-- 🌐 [GitHub](https://github.com/rs-rahulsingla)
