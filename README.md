@@ -1,13 +1,14 @@
 # 👋 Hi there, I'm Rahul Singla!  
-**Aspiring Data Analyst | Python | Power BI | SQL | Turning Data into Insights | Passionate about Data Storytelling & Problem Solving**
+**Aspiring Data Analyst | Python | Power BI | SQL | DSA Enthusiast | Turning Data into Insights | Passionate about Data Storytelling & Problem Solving**
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Pursuing B.Tech in Information Technology.
-- 🌱 Learning Web Development, Python Programming, Data Analytics & Cloud.
-- 🚀 Working on real-world projects across multiple domains.
-- 📊 Passionate about solving problems using technology & data.
+- 🌱 Learning Python Programming, Data Analytics, Web Development & Cloud.
+- 🚀 Working on real-world projects across analytics, web, and automation.
+- 📊 Strong interest in data-driven decision making & problem solving.
+- 🧠 Actively strengthening **Data Structures & Algorithms** for interviews.
 
 ---
 
@@ -29,46 +30,66 @@
 
 ### 🌐 Web Development
 - **[EditKaro.in Portfolio Website](https://github.com/rs-rahulsingla/editkaro-portfolio)** — Creative video editing agency website.
-- **Interactive Resume Builder** — Build interactive resumes with live preview using HTML/CSS/JS.
-- **Personal To-Do List Application** — Simple to-do app using JavaScript for task management.
+- **Interactive Resume Builder** — Live resume preview using HTML, CSS & JavaScript.
+- **Personal To-Do List Application** — JavaScript-based task management app.
+
+---
 
 ### 🐍 Python Projects
-- **[Employee Salary Prediction](https://github.com/rs-rahulsingla/employee-salary-prediction)** — KNN Model to predict salary from dataset.
-- **Spam Mail Detection** — Python project to classify emails as spam/ham.
-- **Student Performance Tracker** — Web app to track student scores and visualize progress.
+- **[Employee Salary Prediction](https://github.com/rs-rahulsingla/employee-salary-prediction)** — KNN model to predict employee salary.
+- **Spam Mail Detection** — Email classification using Python.
+- **Student Performance Tracker** — Web app to track & visualize student performance.
+
+---
 
 ### 📊 Data Analytics & Visualization
-- **Exhaustive Analysis of Indian Agriculture (Power BI)** — Visual analytics project on agriculture data.
-- **Sample Super Store Dashboard** — Power BI interactive report for store sales analysis.
+- **Exhaustive Analysis of Indian Agriculture (Power BI)** — Data-driven insights into Indian agriculture trends.
+- **Sample Super Store Dashboard** — Interactive Power BI sales analytics report.
+
+---
+
+### 🧠 Data Structures & Algorithms (DSA)
+- **Recent DSA Practice & Problem Solving**
+- Languages: **C++ & Python**
+- Topics Covered:
+  - Arrays & Strings  
+  - Searching & Sorting  
+  - Recursion  
+  - Linked Lists  
+  - Stack & Queue  
+  - Basic Dynamic Programming  
+- Focus on **optimized, clean, interview-ready solutions**.
+
+---
 
 ### ☁️ Cloud & CRM
-- **Salesforce Trailhead Projects** — Completed modules & projects on Coral Cloud platform.
+- **Salesforce Trailhead Projects** — Hands-on CRM projects on Coral Cloud platform.
+
+---
+
+## 📊 Data Science Portfolio
+🌐 **Portfolio Website**  
+👉 https://rahulsingla-datascience-imb6wyf.gamma.site/
+
+**Includes:**
+- End-to-end data analysis projects  
+- Data cleaning & exploratory data analysis (EDA)  
+- Power BI dashboards  
+- Business-focused data storytelling  
 
 ---
 
 ## 📈 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs-rahulsingla&show_icons=true&theme=radical)
-![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rs-rahulsingla&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rs-rahulsingla&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: rahulsingla2809@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-singla-4333b5257)
-- 🌐 [GitHub](https://github.com/rs-rahulsingla)
+- ✉️ Email: **rahulsingla2809@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/rahul-singla-4333b5257
+- 🌐 GitHub: https://github.com/rs-rahulsingla
 
+---
 
-<!--
-**rs-rahulsingla/rs-rahulsingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always open to learning, collaboration, and opportunities in Data Analytics, Data Science & Software Development.*
