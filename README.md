@@ -43,6 +43,10 @@
 ---
 
 ### 📊 Data Analytics & Visualization
+- **Interactive Data Analysis Dashboard (Latest)** —  
+  Live interactive charts and analytics dashboard built to visualize data insights effectively.  
+  🌐 Live Demo: https://v0-data-analysis-charts-kohl.vercel.app/
+
 - **Exhaustive Analysis of Indian Agriculture (Power BI)** — Data-driven insights into Indian agriculture trends.
 - **Sample Super Store Dashboard** — Interactive Power BI sales analytics report.
 
