@@ -26,43 +26,66 @@
 
 ---
 
-## 📂 My Projects By Domains
+## 📂 Projects by Domain
 
 ### 🌐 Web Development
-- **[EditKaro.in Portfolio Website](https://github.com/rs-rahulsingla/editkaro-portfolio)** — Creative video editing agency website.
-- **Interactive Resume Builder** — Live resume preview using HTML, CSS & JavaScript.
-- **Personal To-Do List Application** — JavaScript-based task management app.
+- **[EditKaro.in Portfolio Website](https://github.com/rs-rahulsingla/editkaro-portfolio)**  
+  Responsive portfolio website for a video editing agency with categorized content and interactive UI.
+
+- **Interactive Resume Builder**  
+  Real-time resume generator using HTML, CSS, and JavaScript.
+
+- **Personal To-Do List Application**  
+  Task management application with persistent storage for efficient tracking.
 
 ---
 
-### 🐍 Python Projects
-- **[Employee Salary Prediction](https://github.com/rs-rahulsingla/employee-salary-prediction)** — KNN model to predict employee salary.
-- **Spam Mail Detection** — Email classification using Python.
-- **Student Performance Tracker** — Web app to track & visualize student performance.
+### 🐍 Python, Machine Learning & AI
+- **[Employee Salary Prediction](https://github.com/rs-rahulsingla/employee-salary-prediction)**  
+  KNN-based model to predict employee salaries using structured datasets.
+
+- **Spam Mail Detection System**  
+  Email classification system using NLP techniques and machine learning.
+
+- **Social Media Auto-Reply System (AI-Based)**  
+  Automated reply system generating contextual responses using AI (backend simulation).
+
+- **Student Performance Tracker**  
+  Flask-based web application to track and visualize student performance.
 
 ---
 
 ### 📊 Data Analytics & Visualization
-- **Interactive Data Analysis Dashboard (Latest)** —  
-  Live interactive charts and analytics dashboard built to visualize data insights effectively.  
-  🌐 Live Demo: https://v0-data-analysis-charts-kohl.vercel.app/
+- **Interactive Data Analysis Dashboard (Latest)**  
+  🔗 https://v0-data-analysis-charts-kohl.vercel.app/  
+  Interactive dashboard for real-time data visualization and insights.
 
-- **Exhaustive Analysis of Indian Agriculture (Power BI)** — Data-driven insights into Indian agriculture trends.
-- **Sample Super Store Dashboard** — Interactive Power BI sales analytics report.
+- **Traffic Data Analysis Project**  
+  Analysis of traffic datasets to identify congestion patterns and trends.
+
+- **Resume Analysis System**  
+  System to analyze resumes and extract key insights for candidate evaluation.
+
+- **Exhaustive Analysis of Indian Agriculture (Power BI)**  
+  Data-driven insights into agricultural trends using Power BI.
+
+- **Sample Super Store Dashboard**  
+  Sales and profit analysis dashboard built using Power BI.
 
 ---
 
 ### 🧠 Data Structures & Algorithms (DSA)
-- **Recent DSA Practice & Problem Solving**
-- Languages: **C++ & Python**
-- Topics Covered:
-  - Arrays & Strings  
-  - Searching & Sorting  
-  - Recursion  
-  - Linked Lists  
-  - Stack & Queue  
-  - Basic Dynamic Programming  
-- Focus on **optimized, clean, interview-ready solutions**.
+- Practicing problem-solving using **C++ & Python**
+
+**Topics Covered:**
+- Arrays & Strings  
+- Searching & Sorting  
+- Recursion  
+- Linked Lists  
+- Stack & Queue  
+- Basic Dynamic Programming  
+
+🎯 Focus on writing optimized, clean, and interview-ready solutions.
 
 ---
 
